@@ -1,46 +1,67 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/a0/a2/2f/a0a22f4b00c5c328e19c0debc71dc9a9.gif" width="100%" height="220" style="object-fit: cover; border-radius: 8px;">
+<img src="./assets/hero.gif" width="100%" alt="BruxinCore — Code. Systems. Experiments. Núcleo violeta tridimensional em rotação." />
 
-<br><br>
+<br />
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/4a/f3/cb/4af3cb04466f6050489a5ed068dfc42f.gif" />
-  &nbsp;&nbsp;
+<a href="#core">01 / CORE</a> &nbsp;&nbsp;·&nbsp;&nbsp; <a href="#stack">02 / TECH ARSENAL</a>
 
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=BruxinCore;Calamity+Projects;Building+Bombs." alt="Typing SVG" />
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=8b5cf6">
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=8b5cf6">
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=8b5cf6">
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=8b5cf6">
-  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=8b5cf6">
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Lua-000000?style=for-the-badge&logo=lua&logoColor=8b5cf6">
-  <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=8b5cf6">
-  <img src="https://img.shields.io/badge/Arduino-000000?style=for-the-badge&logo=arduino&logoColor=8b5cf6">
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=8b5cf6">
-</p>
-
-<br>
-
-
-<img src="https://i.pinimg.com/originals/4a/f3/cb/4af3cb04466f6050489a5ed068dfc42f.gif" width="80%" height="2">
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&color=94a3b8&center=true&vCenter=true&width=500&lines=>_+tech_stack" alt="будь ты" />
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=BruxinCore&theme=dark&background=00000000&ring=8b5cf6&fire=8b5cf6&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=8b5cf6&sideLabels=94a3b8&dates=94a3b8&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BruxinCore&bg_color=00000000&color=94a3b8&line=8b5cf6&point=ffffff&area=true&hide_border=true&hide_title=true&height=300" width="100%" />
-</p>
+<br /><br />
 
 </div>
+
+<a id="core"></a>
+
+<img src="./assets/identity.gif" width="100%" alt="BruxinCore. Calamity Projects. Anime da identidade original à esquerda; painel de identidade à direita." />
+
+<p align="center">
+  <b>BruxinCore · Calamity Projects</b><br />
+  Código, sistemas e experimentos — do software ao hardware.<br />
+  <sub><i>I am the angel of the night.</i></sub>
+</p>
+
+<br />
+
+<a id="stack"></a>
+
+### 02 / Tech arsenal
+
+<p align="center"><sub>Linguagens · formatos · ferramentas</sub></p>
+
+#### Software / toolset
+
+<p align="center">
+  <img src="./assets/stack-python.svg" width="150" alt="Python" />
+  <img src="./assets/stack-typescript.svg" width="150" alt="TypeScript" />
+  <img src="./assets/stack-javascript.svg" width="150" alt="JavaScript" />
+  <img src="./assets/stack-react.svg" width="150" alt="React" />
+  <img src="./assets/stack-node.svg" width="150" alt="Node.js" />
+  <img src="./assets/stack-lua.svg" width="150" alt="Lua" />
+  <img src="./assets/stack-cpp.svg" width="150" alt="C++" />
+  <img src="./assets/stack-arduino.svg" width="150" alt="Arduino" />
+  <img src="./assets/stack-git.svg" width="150" alt="Git" />
+</p>
+
+<br />
+
+#### Android / ROM porting
+
+<p align="center">
+  <img src="./assets/stack-shell.svg" width="150" alt="Shell" />
+  <img src="./assets/stack-smali.svg" width="150" alt="Smali" />
+  <img src="./assets/stack-xml.svg" width="150" alt="XML" />
+</p>
+
+#### Kernel / build
+
+<p align="center">
+  <img src="./assets/stack-c.svg" width="150" alt="C" />
+  <img src="./assets/stack-assembly.svg" width="150" alt="Assembly" />
+  <img src="./assets/stack-makefile.svg" width="150" alt="Makefile" />
+  <img src="./assets/stack-perl.svg" width="150" alt="Perl" />
+  <img src="./assets/stack-devicetree.svg" width="150" alt="Device Tree" />
+</p>
+
+<br />
+
+<img src="./assets/footer.svg" width="100%" alt="BruxinCore — I am the angel of the night. Calamity Projects." />
